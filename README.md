@@ -1,4 +1,4 @@
-# Video Translation Status Cleint and Server
+# Video Translation Status Client and Server
 
 This project implements a simple server-client system to monitor the status of a video translation job. The server simulates a video translation backend, responding with different statuses (`pending`, `completed`, `error`). The client library checks this status and provides a user-friendly interface to monitor job completion with minimal delays and optimized polling intervals.
 
